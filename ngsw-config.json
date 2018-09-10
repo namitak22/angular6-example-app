@@ -6,6 +6,7 @@
     "resources": {
       "files": [
         "/favicon.ico",
+        "/starbucks.ico",
         "/index.html",
         "/*.bundle.css",
         "/*.bundle.js",

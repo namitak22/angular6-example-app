@@ -43,7 +43,7 @@ describe('AppComponent', () => {
 
   it('should change title meta tag in root path', async(() => {
     fixture.detectChanges();
-    expect(component.title.getTitle()).toBe('Angular Example App');
+    expect(component.title.getTitle()).toBe('Starbucks Store Dynamics'); //NAKHANDE
   }));
 
   it('should check browser features', (() => {

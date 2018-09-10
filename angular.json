@@ -22,7 +22,7 @@
                 "output": "/assets"
               },
               {
-                "glob": "favicon.ico",
+                "glob": "starbucks.ico",
                 "input": "src",
                 "output": "/"
               },
@@ -126,7 +126,7 @@
                 "output": "/assets"
               },
               {
-                "glob": "favicon.ico",
+                "glob": "starbucks.ico",
                 "input": "src",
                 "output": "/"
               },

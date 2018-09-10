@@ -33,7 +33,7 @@ export class AppComponent implements OnInit {
     // With this we load the default language in the main bundle (cache busting)
     this.translateService.setTranslation('en', require('../assets/i18n/en.json'));
 
-    this.title.setTitle('Angular Example App');
+    this.title.setTitle('Starbucks Store Dynamics'); //NAKHANDE
     this.router.events.subscribe((event: any) => {
       if (event instanceof NavigationEnd) {
         switch (event.urlAfterRedirects) {
